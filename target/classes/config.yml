@@ -1,0 +1,17 @@
+trophy-bar: 50 # Сколько дают за один трофей баров
+
+bossbar:
+  text: 'У вас трофей'
+  color: YELLOW
+  style: SOLID
+
+messages:
+  done-swap: 'Игрок {player} успешно обменял Трофей на {bar} баров!'
+  no-item: 'У вас нет Трофея'
+  no-teleport: 'Когда у вас трофей Вам нельзя телепортироваться с помощью эндер-жемчуга!'
+
+item:
+  texture: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzVmNDg2MWFhNWIyMmVlMjhhOTBlNzVkYWI0NWQyMjFlZmQxNGMwYjFlY2M4ZWU5OThmYjY3ZTQzYmI4ZjNkZSJ9fX0=
+  name: 'Трофей'
+  lore:
+    - 'Угу'

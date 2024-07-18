@@ -1,0 +1,8 @@
+ru\conderfix\cftrophy\CFTrophy.class
+ru\conderfix\cftrophy\listeners\TeleportPlayer.class
+ru\conderfix\cftrophy\commands\CFTrophyCommands.class
+ru\conderfix\cftrophy\listeners\QuitEvent.class
+ru\conderfix\cftrophy\InventoryCheck.class
+ru\conderfix\cftrophy\InventoryCheck$1.class
+ru\conderfix\cftrophy\Utils.class
+ru\conderfix\cftrophy\listeners\TrophyPlace.class

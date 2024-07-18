@@ -1,0 +1,6 @@
+name: CFTrophy
+version: '1.0.0'
+main: ru.conderfix.cftrophy.CFTrophy
+api-version: '1.16'
+commands:
+  trophy:
